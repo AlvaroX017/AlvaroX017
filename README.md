@@ -19,6 +19,7 @@
   <img align="center" alt="Java" height="30" width="90" src="https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=Java&logoColor=FF0000&labelColor=0D1117">&nbsp;
   <img align="center" alt="HTML5" height="30" width="90" src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=FF8C00labelColor=0D1117">&nbsp;
   <img align="center" alt="CSS3" height="30" width="90" src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117">&nbsp;
+  <img align="center" alt="JavaScript" height="30" width="110" src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=FFFF00&labelColor=0D1117">&nbsp;
   </div>
   
   ##
