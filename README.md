@@ -1,4 +1,4 @@
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4040ff&height=180&section=header&text=Álvaro Sousa&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4040ff&height=120&section=header"/>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4040ff&size=35&center=true&vCenter=true&width=1000&lines=Hello,I'm+Álvaro;I'm+A+Software+Engineering+Student!)](https://git.io/typing-svg)
   ##
@@ -16,10 +16,10 @@
   ##
   ### Main skills:
   <div style="display: inline_block" ><br>
-  <img align="center" alt="Java" height="30" width="90" src="https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=Java&logoColor=FF0000&labelColor=0D1117">&nbsp;
+  <img align="center" alt="Java" height="30" width="90" src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=JAVA&logoColor=1572B6&labelColor=0D1117">&nbsp;
   <img align="center" alt="HTML5" height="30" width="90" src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=FF8C00labelColor=0D1117">&nbsp;
   <img align="center" alt="CSS3" height="30" width="90" src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117">&nbsp;
-  <img align="center" alt="JavaScript" height="30" width="110" src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=FFFF00&labelColor=0D1117">&nbsp;
+  <img align="center" alt="JavaScript" height="30" src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=FFFF00&labelColor=0D1117">&nbsp;
   </div>
   
   ##
